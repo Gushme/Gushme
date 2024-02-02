@@ -1,8 +1,9 @@
 <h2 align="center">Hi there~ <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm GUSH </h2>
 <h3 align="center">An undergraduate passionated about software development</h3>
 
+<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Bug-Dever&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 - ✨ I’m currently working on ...
-- <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
 <!--
 **Bug-Dever/Bug-Dever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
