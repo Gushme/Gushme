@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Dmego </h2>
+<h3 align="center">A passionate backend developer from China</h3>
 <!--
 **Bug-Dever/Bug-Dever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
