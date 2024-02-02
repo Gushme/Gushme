@@ -2,10 +2,12 @@
 <h3 align="center">An undergraduate passionated about software development</h3>
 
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Bug-Dever&show_icons=true&icon_color=1573B3&text_color=718096&bg_color=00000000&hide_border=true&theme=Gradient"/>
-- ✨ I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+<ul>
+  <li>✨ I’m currently working on ...</li>
+  <li>🌱 I’m currently learning ...</li>
+  <li>💬 Ask me about ...</li>
+  <li>⚡ Fun fact: ...</li>
+</ul>
 
 <!--
 **Bug-Dever/Bug-Dever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
