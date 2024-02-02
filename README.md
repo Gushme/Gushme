@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate passionated about software development</h3>
 
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Bug-Dever&show_icons=true&theme=ambient_gradient"/>
-<img align="right" src="https://readme-stats-dmego.vercel.app/api/top-langs?username=Bug-Dever&layout=Donut Chart"/>
+<img align="right" src="https://readme-stats-dmego.vercel.app/api/top-langs?username=Bug-Dever&layout=DonutChart"/>
 
 <ul>
   <li>✨ I’m currently working on ...</li>
