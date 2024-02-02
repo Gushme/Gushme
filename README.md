@@ -1,7 +1,7 @@
 <h2 align="center">Hi there~ <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm GUSH </h2>
 <h3 align="center">An undergraduate passionated about software development</h3>
 
-<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Bug-Dever&show_icons=true&theme=Gradient"/>
+<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Bug-Dever&show_icons=true&theme=radical"/>
 <ul>
   <li>✨ I’m currently working on ...</li>
   <li>🌱 I’m currently learning ...</li>
