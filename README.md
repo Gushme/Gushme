@@ -4,15 +4,15 @@
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Gushme&show_icons=true&theme=rose"/>
 <!--<img align="right" src="https://readme-stats-dmego.vercel.app/api/top-langs?username=Bug-Dever&layout=pie"/> -->
 
-<h4 align="center">About me?</h4>
-<ul>
+<h3 align="left">About me?</h3>
+<ul style="line-height: 2;">
   <li>✨ I’m currently studying EE in SEU.</li>
-  <li>📝 I enjoy recording my learning on [personal blog](https://gushme.github.io/).</li>
+  <li>📝 I enjoy recording my learning on <a href="https://gushme.github.io/">personal blog</a>.</li>
   <li>📫 Feel free to contact me at gush@seu.edn.cn</li>
 </ul>
 
-<h4 align="center">What do I like?</h4>
-<ul>
+<h3 align="left">What do I like?</h3>
+<ul style="line-height: 2;">
   <li>⌨️ Coding</li>
   <li>🎱 POOL EIGHT BALL</li>
   <li>✈️ Aviation enthusiast</li>
