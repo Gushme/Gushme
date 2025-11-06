@@ -1,5 +1,5 @@
 <h2 align="center">Hi there~ <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> I'm GUSH</h2>
-<h3 align="center">A master student major in EE in SEU, passionated about software development.</h3>
+<!-- <h3 align="center">A master student major in EE in SEU, passionated about software development.</h3> -->
 
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=Gushme&show_icons=true&theme=rose"/>
 <!--<img align="right" src="https://readme-stats-dmego.vercel.app/api/top-langs?username=Bug-Dever&layout=pie"/> -->
